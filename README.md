@@ -6,7 +6,7 @@ Here is the method summarized:
 
 Formulation LMPC                         | Formulation NMPC  
 -----------------------------------------|-----------------------------------------
-<img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/problem.png" width="300">  <img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/equations1.png" width="300"> | <img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/equations2.png" width="400">
+<img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/problem.png" width="300">\ <img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/equations1.png" width="300"> | <img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/equations2.png" width="400">
 <!-- -----------------------------------------|----------------------------------------- -->
 Results LMPC                             | Results NMPC    
 -----------------------------------------|-----------------------------------------
