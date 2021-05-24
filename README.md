@@ -4,13 +4,13 @@ This repository provides code to reproduce results from the paper: [Model Based 
 
 Here is the method summarized:
 
-Linearized MPC                           | Non-linear MPC
+Formulatino LMPC                         | Formulatino NMPC  
 -----------------------------------------|-----------------------------------------
-<img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/problem.png" width="300"> <img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/equations1.png" width="300"> | <img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/equations2.png" width="300"> 
+<img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/problem.png" width="400"> <img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/equations1.png" width="400"> | <img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/equations2.png" width="400">
 <!-- -----------------------------------------|----------------------------------------- -->
-<!-- Configuration Space Partitioning         |-    -->
+Results LMPC                             | Results NMPC    
 -----------------------------------------|-----------------------------------------
-<img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/nmpc_xy.png" width="300"> | <img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/lmpc_xy.png" width="300">
+<img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/nmpc_xy.png" width="400"> | <img src="https://github.com/davreixach/smartConvBeltMPC/blob/main/smartConvBeltMPClatex/images/lmpc_xy.png" width="400">
 
 
 ### Preliminaries
